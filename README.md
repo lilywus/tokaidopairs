@@ -3,5 +3,5 @@ A translation and partial transcription project for the *53 Pairings for the Tok
 
 I first worked with this series for separate Japanese art history and pre-modern language course final projects during my last semester of college, and aim to complete full translation some day! While these translations are by no means of professional quality, I hope to gain more experience with parsing pre-modern Japanese and translation with this project.
 
-Status: Building website
-Translation progress: 6/53
+**Status:** Building website\
+**Translation progress:** 6/53
